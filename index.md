@@ -33,7 +33,7 @@ My research interests are in the field of Multimodal especially about\
 
 - B.S. in [Computer Science and Engineering]
 - Cumulative GPA: 3.48 / 4.5
-- 
+<!--- Advisor:-->
 [Computer Science and Engineering]: http://cse.konkuk.ac.kr
 
 
