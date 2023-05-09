@@ -22,8 +22,6 @@ My research interests are in the field of Multimodal especially about\
 - Cumulative GPA: ? / 4.5
 - Advisor: [Prof. Hakgu Kim](https://www.irislab.cau.ac.kr/members/pi)
 
-[Metafusion-VR/Game/Metaverse]: https://gsaim.cau.ac.kr
-
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
