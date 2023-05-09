@@ -5,10 +5,11 @@ layout: default
 # Introduce
 
 Hello!
-I am a M.S.student in CSE at Chung-ang University, and studying under the supervision of [Prof. Hakgu Kim](https://www.irislab.cau.ac.kr/members/pi).
+I'm a M.S.student in Image/Video Engineering at Chung-ang University, and \
+studying under the supervision of [Prof. Hakgu Kim](https://www.irislab.cau.ac.kr/members/pi).
 
-My research interests are in the field of Multimodal especially about\
-(i) Visual Speech Recognition\
+My research interests are in the field of Multimodal especially about \
+(i) Visual Speech Recognition \
 (ii) Visual Speech Generation
 
 * * *
