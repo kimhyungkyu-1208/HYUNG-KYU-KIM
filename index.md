@@ -2,6 +2,7 @@
 layout: default
 ---
 #Introduce
+
 Hello!
 I am a M.S.student in CSE at Chung-ang University, and studying under the supervision of [Prof. Hakgu Kim](https://www.irislab.cau.ac.kr/members/pi).
 
@@ -27,7 +28,7 @@ My research interests are in the field of Multimodal especially about\
 <h4 class="education">
   <i class="material-icons md-18">school</i>
   <a href="http://www.konkuk.ac.kr/do/Index.do">Konkuk University</a>, Seoul, Korea
-  <sup>2016.03 - 2022.02</sup>
+  <sup>2016.03 - 2023.02</sup>
 </h4>
 
 - B.S.student in [Computer Science and Engineering](http://cse.konkuk.ac.kr)
