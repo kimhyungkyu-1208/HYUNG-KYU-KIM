@@ -1,0 +1,19 @@
+title: Minjung Kim
+subtitle: (김민정, @minnjung)
+face: /assets/img/minjungkim.jpeg
+#cv: https://drive.google.com/file/d/1DuI0Hul1Un-4AemKeqcZ9rYBJHxw163N/view?usp=sharing
+cv: /assets/cv.pdf
+description: Ph.D student in CSE at Seoul National University
+location: Seoul, Korea
+email: minjung.kim AT vision.snu.ac.kr
+homepage: https://minnjung.github.io
+#twitter:
+github: https://github.com/minnjung
+linkedin: https://www.linkedin.com/in/minjung-kim-45148722a/
+google_analytics: UA-146496389-1
+theme: jekyll-theme-minimal
+google_scholar: https://scholar.google.com/citations?user=nSwyFAMAAAAJ&hl=en
+semantic_scholar: https://www.semanticscholar.org/author/Minjung-Kim/2109022768
+
+plugins:
+  - jekyll-seo-tag
