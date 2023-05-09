@@ -18,11 +18,11 @@ My research interests are in the field of Multimodal especially about \
 
 <h4 class="education">
   <i class="material-icons md-18">account_balance</i>
-  <a href="">Chung-ang University (CAU)</a>, Seoul, Korea
+  <a href="https://www.cau.ac.kr/index.do">Chung-ang University (CAU)</a>, Seoul, Korea
   <sup>2023.03 - Current</sup>
 </h4>
 
-- M.S.student in [Metafusion-VR/Game/Metaverse](https://www.cau.ac.kr/index.do)
+- M.S.student in [Metafusion-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
 - Cumulative GPA: ? / 4.5
 - Advisor: [Prof. Hakgu Kim](https://www.irislab.cau.ac.kr/members/pi)
 
