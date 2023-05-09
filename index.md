@@ -17,9 +17,11 @@ My research interests are in the field of Multimodal especially about\
   <a href="">Chung-ang University (CAU)</a>, Seoul, Korea
   <sup>2023.03 - Current</sup>
 </h4>
+
 - Integrated M.S.student in [Metafusion-VR/Game/Metaverse]
 - Cumulative GPA: ? / 4.5
 - Advisor: [Prof. Hakgu Kim](https://www.irislab.cau.ac.kr/members/pi)
+
 [Metafusion-VR/Game/Metaverse]: https://gsaim.cau.ac.kr
 
 
@@ -31,10 +33,11 @@ My research interests are in the field of Multimodal especially about\
 
 - B.S. in [Computer Science and Engineering]
 - Cumulative GPA: 3.48 / 4.5
+- 
 [Computer Science and Engineering]: http://cse.konkuk.ac.kr
 
 
-### Publications
+<!-- ### Publications -->
 <!-- - **Papername** <br/>
 authors, **my_name** <br/>
 conference_name
@@ -46,18 +49,18 @@ conference_name
 
 
 
-### Awards & Honorships
+<!-- ### Awards & Honorships -->
 
 <!-- - [**name**](homepage_address)(date) -->
 
 
-### Development Projects
+<!-- ### Development Projects -->
 
 <!-- - **Name** <sup>2019.02 - Current</sup> <a class="code" href="code_homepage address">[code]</a> <br/> 
 detail -->
 
-
-### Professional Activities
+<!-- 
+### Professional Activities -->
 <!-- 
 - **Reviewer of International Conferences** <br/>
 IEEE/CVF International Conference on Computer Vision (ICCV) 2023 <br/>\
