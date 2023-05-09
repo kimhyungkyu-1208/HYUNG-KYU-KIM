@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+#Introduce
 Hello!
 I am a M.S.student in CSE at Chung-ang University, and studying under the supervision of [Prof. Hakgu Kim](https://www.irislab.cau.ac.kr/members/pi).
 
@@ -9,8 +9,9 @@ My research interests are in the field of Multimodal especially about\
 (i) Visual Speech Recognition\
 (ii) Visual Speech Generation
 
+* * *
 
-### Education
+## Profile
 
 <h4 class="education">
   <i class="material-icons md-18">account_balance</i>
