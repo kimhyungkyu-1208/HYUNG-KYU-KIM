@@ -18,7 +18,7 @@ My research interests are in the field of Multimodal especially about\
   <sup>2023.03 - Current</sup>
 </h4>
 
-- Integrated M.S.student in [Metafusion-VR/Game/Metaverse]
+- M.S.student in [Metafusion-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
 - Cumulative GPA: ? / 4.5
 - Advisor: [Prof. Hakgu Kim](https://www.irislab.cau.ac.kr/members/pi)
 
@@ -31,11 +31,9 @@ My research interests are in the field of Multimodal especially about\
   <sup>2016.03 - 2022.02</sup>
 </h4>
 
-- B.S. in [Computer Science and Engineering]
+- B.S.student in [Computer Science and Engineering](http://cse.konkuk.ac.kr)
 - Cumulative GPA: 3.48 / 4.5
 <!--- Advisor:-->
-[Computer Science and Engineering]: http://cse.konkuk.ac.kr
-
 
 <!-- ### Publications -->
 <!-- - **Papername** <br/>
