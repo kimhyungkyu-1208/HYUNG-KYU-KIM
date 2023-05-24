@@ -6,13 +6,13 @@ location: Seoul, Korea
 email: hyung1208 AT cau.ac.kr
 homepage: https://github.com/kimhyungkyu-1208/
 #twitter:
-github: https://github.com/kimhyungkyu-1208
-linkedin: https://www.linkedin.com/in/rlagudrb1208/
-
-theme: jekyll-theme-minimal
 #google_scholar:
 #semantic_scholar:
 #CV
+github: https://github.com/kimhyungkyu-1208
+linkedin: https://www.linkedin.com/in/rlagudrb1208/
+theme: jekyll-theme-minimal
+
 
 plugins:
   - jekyll-seo-tag
