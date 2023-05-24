@@ -8,10 +8,11 @@ homepage: https://github.com/kimhyungkyu-1208/
 #twitter:
 github: https://github.com/kimhyungkyu-1208
 linkedin: https://www.linkedin.com/in/rlagudrb1208/
-#google_analytics:
+
 theme: jekyll-theme-minimal
 #google_scholar:
 #semantic_scholar:
+#CV
 
 plugins:
   - jekyll-seo-tag
