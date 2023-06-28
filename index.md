@@ -36,9 +36,9 @@ My research interests are in the field of Multimodal especially about \
 * * *
 
 ## Reading Paper
-> [Visual Speech Recognition](./another_pages/Visual_Speech_Recognition.html)
-> [Visual Speech Generation](./another_pages/Visual_Speech_Generation.html)
-> [Memory Network](./another_pages/Memory_Network.html)
+> [Visual Speech Recognition](./another_pages/Visual_Speech_Recognition.html).
+> [Visual Speech Generation](./another_pages/Visual_Speech_Generation.html).
+> [Memory Network](./another_pages/Memory_Network.html).
 <!--- Advisor:-->
 
 <!-- ### Publications -->
