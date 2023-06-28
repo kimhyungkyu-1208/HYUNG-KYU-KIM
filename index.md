@@ -11,7 +11,7 @@ studying under the supervision of [Prof. Hak Gu Kim](https://www.irislab.cau.ac.
 My research interests are in the field of Multimodal especially about \
 (i) [Visual Speech Recognition](./another_pages/Visual_Speech_Recognition.html) \
 (ii) [Visual Speech Generation](./another_pages/Visual_Speech_Generation.html) \
-(iii) [Memory Network](./another_pages/Memory_Network.html) \
+(iii) [Memory Network](./another_pages/Memory_Network.html)
 
 * * *
 
