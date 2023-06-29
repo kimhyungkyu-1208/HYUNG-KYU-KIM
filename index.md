@@ -9,9 +9,9 @@ I'm a M.S.student in Image/Video Engineering at Chung-Ang University, and \
 studying under the supervision of [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi).
 
 My research interests are in the field of Multimodal especially about \
-(i) [Visual Speech Recognition](./another_pages/Visual_Speech_Recognition.html) \
-(ii) [Visual Speech Generation](./another_pages/Visual_Speech_Generation.html) \
-(iii) [Memory Network](./another_pages/Memory_Network.html)
+(I) [Visual Speech Recognition](./another_pages/Visual_Speech_Recognition.html) \
+(II) [Visual Speech Generation](./another_pages/Visual_Speech_Generation.html) \
+(III) [Memory Network](./another_pages/Memory_Network.html)
 
 * * *
 
