@@ -36,6 +36,7 @@ In addition, I am always open to expanding my horizons and exploring other fasci
   <a href="http://www.konkuk.ac.kr/do/Index.do">Konkuk University</a>, Seoul, Korea
   <sup>2016.03 - 2023.02</sup>
 </h4>
+
 - B.S.student in [Computer Science and Engineering](http://cse.konkuk.ac.kr)
 
 * * *
