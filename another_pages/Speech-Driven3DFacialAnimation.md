@@ -15,5 +15,6 @@ Generating sophisticated 3D facial animations that capture high-dimensional faci
 >
 > [Codetalker: Speech-driven 3d facial animation with discrete motion prior](http://openaccess.thecvf.com/content/CVPR2023/papers/Xing_CodeTalker_Speech-Driven_3D_Facial_Animation_With_Discrete_Motion_Prior_CVPR_2023_paper.pdf)
 >
-
+> [SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces](https://arxiv.org/pdf/2306.10799.pdf)
+>
 [back](../index.html)
