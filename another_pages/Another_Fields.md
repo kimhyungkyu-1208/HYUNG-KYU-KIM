@@ -12,4 +12,8 @@ Memory Networks are a class of models designed to enhance machine learning syste
 > 
 > [Video Prediction Recalling Long-term Motion Context via Memory Alignment Learning](https://arxiv.org/abs/2104.00924)
 
+> [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/abs/2006.11477)
+
+> [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://arxiv.org/abs/2211.12194)
+
 [back](../index.html)

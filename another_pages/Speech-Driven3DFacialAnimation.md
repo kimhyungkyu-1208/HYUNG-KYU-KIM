@@ -17,4 +17,6 @@ Generating sophisticated 3D facial animations that capture high-dimensional faci
 >
 > [SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces](https://arxiv.org/pdf/2306.10799.pdf)
 >
+> [Emotional Speech-Driven Animation with Content-Emotion Disentanglement](https://arxiv.org/pdf/2306.08990.pdf)
+>
 [back](../index.html)
