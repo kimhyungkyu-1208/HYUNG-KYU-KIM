@@ -16,4 +16,8 @@ Memory Networks are a class of models designed to enhance machine learning syste
 
 > [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://arxiv.org/abs/2211.12194)
 
+> [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
+
+> [DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors](https://arxiv.org/abs/2211.12046)
+
 [back](../index.html)

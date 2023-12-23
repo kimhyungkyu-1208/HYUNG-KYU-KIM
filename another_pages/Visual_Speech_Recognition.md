@@ -14,6 +14,6 @@ Visual Speech Recognition (VSR) is an innovative computer vision task that trans
 > 
 > [Watch or Listen: Robust Audio-Visual Speech Recognition with Visual Corruption Modeling and Reliability Scoring](https://arxiv.org/abs/2303.08536)
 >
-> []()
+
 
 [back](../index.html)
