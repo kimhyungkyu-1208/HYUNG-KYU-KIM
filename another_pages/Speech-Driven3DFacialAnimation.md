@@ -20,4 +20,5 @@ Generating sophisticated 3D facial animations that capture high-dimensional faci
 > [Emotional Speech-Driven Animation with Content-Emotion Disentanglement](https://arxiv.org/pdf/2306.08990.pdf)
 >
 > [EmoTalk: Speech-Driven  Emotional Disentanglement for 3D Face Animation](https://openaccess.thecvf.com/content/ICCV2023/html/Peng_EmoTalk_Speech-Driven_Emotional_Disentanglement_for_3D_Face_Animation_ICCV_2023_paper.html)
+>
 [back](../index.html)
