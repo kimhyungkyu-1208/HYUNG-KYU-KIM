@@ -12,6 +12,7 @@ Visual Speech Generation (VSG) is an advanced technology that generates realisti
 > 
 > [VisageSynTalk: Unseen Speaker Video-to-Speech Synthesis via Speech-Visage Feature Selection](https://arxiv.org/abs/2206.07458)
 >
-
+> [Exploring Phonetic Context in Lip Movement for Authentic Talking Face Generation](https://arxiv.org/abs/2305.19556)
+>
 
 [back](../index.html)
