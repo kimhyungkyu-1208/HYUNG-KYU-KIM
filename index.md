@@ -52,8 +52,8 @@ In addition, I am always open to expanding my horizons and exploring other fasci
 <strong>Hyung Kyu Kim</strong>, Sangmin Lee and Hak Gu Kim <br />
 IEEE International Conference on Image Processing (ICIP) 2024</p>
   </li>
-  <li>
-</ul>
+
+<ul>
 
 
 
