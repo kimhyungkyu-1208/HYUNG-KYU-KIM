@@ -44,15 +44,16 @@ In addition, I am always open to expanding my horizons and exploring other fasci
 
 <!--- Advisor:-->
 
-<!-- ### Publications -->
-<!-- - **Papername** <br/>
-authors, **my_name** <br/>
-conference_name
-<a class="code" href="homepage_address">[OpenReview]</a>
-<a class="code" href="homepage_address">[arxiv]</a>
-<a class="code" href="homepage_address">[pdf]</a>
-<a class="code" href="homepage_address">[talk]</a>
-<a class="code" href="homepage_address">[code]</a> -->
+<h3 id="publications--equal-contribution">Publications (* equal contribution)</h3>
+
+<ul>
+  <li>
+    <p><a href="">Analyzing Visible Articulatory Movements in Speech Production for Speech-Driven 3D Facial Animation</a> <br />
+<strong>Hyung Kyu Kim</strong>, Sangmin Lee and Hak Gu Kim <br />
+IEEE International Conference on Image Processing (ICIP) 2024</p>
+  </li>
+  <li>
+</ul>
 
 
 
