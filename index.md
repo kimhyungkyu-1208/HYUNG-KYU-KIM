@@ -44,7 +44,7 @@ In addition, I am always open to expanding my horizons and exploring other fasci
 
 <!--- Advisor:-->
 
-<h3 id="publications--equal-contribution">Publications (* equal contribution)</h3>
+## Publications (* equal contribution)
 
 <ul>
   <li>
