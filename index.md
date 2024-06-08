@@ -44,7 +44,7 @@ In addition, I am always open to expanding my horizons and exploring other fasci
 
 <!--- Advisor:-->
 
-## Publications (* equal contribution)
+## Publications
 
 <ul>
   <li>
