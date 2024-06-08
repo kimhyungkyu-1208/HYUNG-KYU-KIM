@@ -49,8 +49,14 @@ In addition, I am always open to expanding my horizons and exploring other fasci
 <ul>
   <li>
     <p><a href="">Analyzing Visible Articulatory Movements in Speech Production for Speech-Driven 3D Facial Animation</a> <br />
-<strong>Hyung Kyu Kim</strong>, Sangmin Lee and Hak Gu Kim <br />
-IEEE International Conference on Image Processing (ICIP) 2024</p>
+    <strong>Hyung Kyu Kim</strong>, Sangmin Lee and Hak Gu Kim <br />
+    IEEE International Conference on Image Processing (ICIP) 2024</p>
+  </li>
+
+  <li>
+    <p><a href="">Unveiling the Potential of Multimodal Large Language Models for Scene Text Segmentation via Semantic-Enhanced Features</a> <br />
+    Ho Jun Kim*, <strong>Hyung Kyu Kim*</strong>, Sangmin Lee and Hak Gu Kim (*equal contribution)<br />
+    IEEE International Conference on Image Processing (ICIP) 2024</p>
   </li>
 
 <ul>
