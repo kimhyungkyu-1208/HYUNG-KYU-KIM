@@ -23,5 +23,7 @@ Generating sophisticated 3D facial animations that capture high-dimensional faci
 >
 > [Imitator: Personalized Speech-driven 3D Facial Animation(ICCV 23)](https://openaccess.thecvf.com/content/ICCV2023/html/Thambiraja_Imitator_Personalized_Speech-driven_3D_Facial_Animation_ICCV_2023_paper.html)
 >
+> [Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation(AAAI 24)](https://ojs.aaai.org/index.php/AAAI/article/view/27945)
+>
 
 [back](../index.html)
