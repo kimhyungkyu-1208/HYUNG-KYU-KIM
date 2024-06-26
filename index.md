@@ -8,7 +8,7 @@ Hello!
 I'm an M.S. student at Chung-Ang University, 
 specializing in Image/Video Engineering under the mentorship [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi).
 
-My research interests lie in integrating various domain data through <u>multimodal learning</u>. I investigate multimodal learning to comprehensively leverage visual, language, and audio. Furthermore, I explore multimodal large language models to effectively exploit other modalities as LLM's ability. Building upon these foundations, my current research focuses on developing <u>interaction systems</u> that can understand and interact with humans in various modalities.
+My research interests lie in integrating various domain data through <u><strong>multimodal learning</strong></u>. I investigate multimodal learning to comprehensively leverage visual, language, and audio. Furthermore, I explore multimodal large language models to effectively exploit other modalities as LLM's ability. Building upon these foundations, my current research focuses on developing <u><strong>interaction systems</strong></u> that can understand and interact with humans in various modalities.
 * * *
 
 ## Profile
