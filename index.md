@@ -19,7 +19,7 @@ My research interests lie in integrating various domain data through <u><strong>
   <sup>2023.03 - Current</sup>
 </h4>
 
-- M.S. student in [Metafusion-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
+- M.S. in [Metafusion-VR/Game/Metaverse](https://gsaim.cau.ac.kr)
 - Advisor: [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi)
 
 
@@ -29,7 +29,7 @@ My research interests lie in integrating various domain data through <u><strong>
   <sup>2016.03 - 2023.02</sup>
 </h4>
 
-- B.S. student in [Computer Science and Engineering](http://cse.konkuk.ac.kr)
+- B.S. in [Computer Science and Engineering](http://cse.konkuk.ac.kr)
 
 * * *
 
