@@ -46,7 +46,7 @@ My research interests lie in integrating various domain data through <u><strong>
   </li>
 
   <li>
-    <p><a href="">Analyzing Visible Articulatory Movements in Speech Production for Speech-Driven 3D Facial Animation</a> <br />
+    <p><a href="https://ieeexplore.ieee.org/document/10647359">Analyzing Visible Articulatory Movements in Speech Production for Speech-Driven 3D Facial Animation</a> <br />
     <strong>Hyung Kyu Kim</strong>, Sangmin Lee and Hak Gu Kim <br />
     IEEE International Conference on Image Processing (ICIP) 2024</p>
   </li>
