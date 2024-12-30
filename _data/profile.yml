@@ -36,13 +36,13 @@ portrait_url: /Users/hkkim/Documents/GitHub/Hyungkyu_Kim/assets/images/photos/po
 
 education:
 - name: Chung-Ang University (CAU)
-  logo: /assets/images/badges/CAU_logo.png
+  logo: /assets/images/badges/cau.jpg
   position: >-
     M.S. in Metafusion-VR/Game/Metaverse <br/>
     Advisor: <a href="https://www.irislab.cau.ac.kr/members/pi">Prof. Hak Gu Kim</a>
   date: Mar. 2023 - Present
 - name: Konkuk University
-  logo: /assets/images/badges/Konkuk_logo.png
+  logo: /assets/images/badges/konkuk.jpg
   position: B.S. in Computer Science and Engineering
   date: Mar. 2016 - Feb. 2023
 
