@@ -10,9 +10,9 @@ positions:
 
 email: "hyung1208@cau.ac.kr"
 # cv_link: link-to-your-cv-file
-gscholar: hyung1208@cau.ac.kr  # This is an example, replace it with your own Google Scholar ID
-github: kimhyungkyu-1208
-twitter: @  # Do not include the '@' symbol
+gscholar: "hyung1208@cau.ac.kr"  # This is an example, replace it with your own Google Scholar ID
+github: "kimhyungkyu-1208"
+twitter: "@"  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
