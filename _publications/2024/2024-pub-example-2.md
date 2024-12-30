@@ -8,7 +8,7 @@ pub_date:       "2024"
 
 abstract: >-
   This research investigates the relationship between visible articulatory movements and speech production to create realistic speech-driven 3D facial animations. It provides insights into optimizing facial motion prediction using multimodal data.
-cover:          /assets/images/covers/icip2024.jpg
+cover:          /assets/images/covers/icip24.png
 authors:
   - Hyung Kyu Kim
   - Sangmin Lee

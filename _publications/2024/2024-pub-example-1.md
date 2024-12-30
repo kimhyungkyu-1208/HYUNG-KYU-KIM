@@ -3,12 +3,12 @@ title:          "Unveiling the Potential of Multimodal Large Language Models for
 date:           2024-09-01 00:01:00 +0800
 selected:       true
 pub:            "IEEE International Conference on Image Processing Workshop (ICIPW)"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success"></span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
 pub_date:       "2024"
 
 abstract: >-
   This study explores the potential of multimodal large language models in scene text segmentation by leveraging semantic-enhanced features. It demonstrates the synergy between textual and visual modalities to improve segmentation tasks.
-cover:          /assets/images/covers/icipw2024.jpg
+cover:          /assets/images/covers/icipw24.png
 authors:
   - Ho Jun Kim*
   - Hyung Kyu Kim*
