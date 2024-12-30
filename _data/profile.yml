@@ -30,6 +30,10 @@ short_bio: >-
     My research interests lie in integrating various domain data through <strong>multimodal learning</strong>. I investigate how visual, language, and audio modalities can be comprehensively leveraged. Furthermore, I explore multimodal large language models to enhance interaction systems that understand and communicate across diverse modalities.
   </p>
 
+portrait_url: /assets/images/photos/portrait.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+
 education:
 - name: Chung-Ang University (CAU)
   logo: /assets/images/badges/CAU_logo.png
