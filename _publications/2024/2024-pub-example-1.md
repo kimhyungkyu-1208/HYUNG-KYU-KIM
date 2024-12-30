@@ -3,7 +3,7 @@ title:          "Unveiling the Potential of Multimodal Large Language Models for
 date:           2024-09-01 00:01:00 +0800
 selected:       true
 pub:            "IEEE International Conference on Image Processing Workshop (ICIPW)"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Presentation</span>'
 pub_date:       "2024"
 
 abstract: >-
