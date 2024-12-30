@@ -30,7 +30,7 @@ short_bio: >-
     My research interests lie in integrating various domain data through <strong>multimodal learning</strong>. I investigate how visual, language, and audio modalities can be comprehensively leveraged. Furthermore, I explore multimodal large language models to enhance interaction systems that understand and communicate across diverse modalities.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /Users/hkkim/Documents/GitHub/Hyungkyu_Kim/assets/images/photos/portrait.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
@@ -52,10 +52,10 @@ education:
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
