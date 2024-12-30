@@ -6,8 +6,8 @@ pub:            "IEEE International Conference on Image Processing (ICIP)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
 pub_date:       "2024"
 
-abstract: >-
-  This research investigates the relationship between visible articulatory movements and speech production to create realistic speech-driven 3D facial animations. It provides insights into optimizing facial motion prediction using multimodal data.
+# abstract: >-
+#   This research investigates the relationship between visible articulatory movements and speech production to create realistic speech-driven 3D facial animations. It provides insights into optimizing facial motion prediction using multimodal data.
 cover:          /assets/images/covers/icip24.png
 authors:
   - Hyung Kyu Kim

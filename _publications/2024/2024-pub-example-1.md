@@ -6,8 +6,8 @@ pub:            "IEEE International Conference on Image Processing Workshop (ICI
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Presentation</span>'
 pub_date:       "2024"
 
-abstract: >-
-  This study explores the potential of multimodal large language models in scene text segmentation by leveraging semantic-enhanced features. It demonstrates the synergy between textual and visual modalities to improve segmentation tasks.
+# abstract: >-
+#   This study explores the potential of multimodal large language models in scene text segmentation by leveraging semantic-enhanced features. It demonstrates the synergy between textual and visual modalities to improve segmentation tasks.
 cover:          /assets/images/covers/icipw24.png
 authors:
   - Ho Jun Kim*
