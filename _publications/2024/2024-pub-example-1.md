@@ -1,22 +1,20 @@
 ---
-title:          "Convallis a cras semper auctor neque vitae rutrum quisque non tellus orci ac"
-date:           2024-05-12 00:01:00 +0800
+title:          "Unveiling the Potential of Multimodal Large Language Models for Scene Text Segmentation via Semantic-Enhanced Features"
+date:           2024-09-01 00:01:00 +0800
 selected:       true
-pub:            "International Conference on Machine Learning (ICML)"
-# pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
+pub:            "IEEE International Conference on Image Processing Workshop (ICIPW)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
-cover:          /assets/images/covers/cover3.jpg
+  This study explores the potential of multimodal large language models in scene text segmentation by leveraging semantic-enhanced features. It demonstrates the synergy between textual and visual modalities to improve segmentation tasks.
+cover:          /assets/images/covers/icipw2024.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Ho Jun Kim*
+  - Hyung Kyu Kim*
+  - Sangmin Lee
+  - Hak Gu Kim
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Paper: ""
+  Code: ""
 ---
