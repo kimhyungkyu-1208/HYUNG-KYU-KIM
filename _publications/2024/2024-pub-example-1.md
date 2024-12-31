@@ -1,6 +1,6 @@
 ---
 title:          "Unveiling the Potential of Multimodal Large Language Models for Scene Text Segmentation via Semantic-Enhanced Features"
-date:           2024-09-01 00:01:00 +0800
+date:           2024-10-28 00:01:00 +0800
 selected:       true
 pub:            "IEEE International Conference on Image Processing Workshop (ICIPW)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Presentation</span>'
@@ -11,7 +11,7 @@ pub_date:       "2024"
 cover:          /assets/images/covers/icipw24.png
 authors:
   - Ho Jun Kim*
-  - Hyung Kyu Kim*
+  - <u>Hyung Kyu Kim</u>*
   - Sangmin Lee
   - Hak Gu Kim
 links:
