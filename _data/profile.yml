@@ -38,9 +38,15 @@ education:
 - name: Chung-Ang University (CAU)
   logo: /assets/images/badges/cau.jpg
   position: >-
+    Ph.D. in Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) <br/>
+    Advisor: <a href="https://www.irislab.cau.ac.kr/members/pi">Prof. Hak Gu Kim</a>
+  date: Mar. 2025 - Present
+- name: Chung-Ang University (CAU)
+  logo: /assets/images/badges/cau.jpg
+  position: >-
     M.S. in Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) <br/>
     Advisor: <a href="https://www.irislab.cau.ac.kr/members/pi">Prof. Hak Gu Kim</a>
-  date: Mar. 2023 - Present
+  date: Mar. 2023 - Feb. 2025
 - name: Konkuk University
   logo: /assets/images/badges/konkuk.jpg
   position: B.S. in Computer Science and Engineering
