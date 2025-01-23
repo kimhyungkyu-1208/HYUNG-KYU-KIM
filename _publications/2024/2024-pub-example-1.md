@@ -15,6 +15,6 @@ authors:
   - Sangmin Lee
   - Hak Gu Kim
 links:
-  Paper: ""
+  Paper: "https://ieeexplore.ieee.org/abstract/document/10769199"
   # Code: ""
 ---
