@@ -3,7 +3,7 @@ title:          "MemoryTalker: Personalized Speech-Driven 3D Facial Animation vi
 date:           2025-10-21 00:01:00 +0800
 selected:       true
 pub:            "International Conference on Computer Vision (ICCV)"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Presentation</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Presentation</span>'
 pub_date:       "2025"
 
 # abstract: >-
