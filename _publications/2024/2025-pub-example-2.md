@@ -1,6 +1,6 @@
 ---
 title:          "Learning Phonetic Context-Dependent Viseme for Enhancing Speech-Driven 3D Facial Animation"
-date:           2025-10-28 00:01:00 +0800
+date:           2025-08-22 00:01:00 +0800
 selected:       true
 pub:            "Interspeech"
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Presentation</span>'
