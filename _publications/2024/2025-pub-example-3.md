@@ -14,7 +14,7 @@ authors:
   - Sangmin Lee
   - Hak Gu Kim
 links:
-  # Paper: "https://ieeexplore.ieee.org/abstract/document/10769199"
+  Paper: "https://arxiv.org/abs/2507.20562"
   Project Page: "https://cau-irislab.github.io/ICCV25-MemoryTalker/"
   Code: "https://github.com/kimhyungkyu-1208/MemoryTalker"
 ---

@@ -13,7 +13,7 @@ authors:
   - <u>Hyung Kyu Kim</u>
   - Hak Gu Kim
 links:
-  # Paper: "https://ieeexplore.ieee.org/abstract/document/10769199"
+  Paper: "https://arxiv.org/abs/2507.20568"
   Project Page: "https://cau-irislab.github.io/interspeech25/"
   Code: "https://github.com/kimhyungkyu-1208/interspeech25"
 ---
