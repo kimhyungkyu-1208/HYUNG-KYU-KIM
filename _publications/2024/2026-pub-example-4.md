@@ -8,7 +8,7 @@ pub_date:       "2026"
 
 # abstract: >-
 #   Add a short abstract here when ready.
-# cover:          /assets/images/covers/interspeech26.png
+cover:          /assets/images/covers/interspeech26.png
 authors:
   - <u>Hyung Kyu Kim</u>
   - Byungchan Hwang

@@ -2,8 +2,8 @@
 title:          "Seeing Speech: Learning Visible Articulatory Dynamics for Speech-Driven 3D Facial Animation"
 date:           2026-05-22 00:01:00 +0800
 selected:       true
-pub:            "Conference on Neural Information Processing Systems (NeurIPS)"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">Submitted</span>'
+pub:            "Under Review"
+pub_last:       ""
 pub_date:       "2026"
 
 # abstract: >-
