@@ -1,30 +1,67 @@
 ---
-layout: default
-title : Homepage
-navbar_title: Home
+layout: single
+permalink: /
+title: false
+author_profile: true
+toc: true
+toc_sticky: true
+toc_label: "Contents"
 ---
-{% include widgets/profile_card.html %}
 
-<!-- {% include widgets/debug_repo_name.html %} -->
+<h2 id="about">About Me</h2>
+<p>
+  I am a Ph.D. student in the Graduate School of Advanced Imaging Science, Multimedia &amp; Film (GSAIM)
+  at <a href="https://www.cau.ac.kr/index.do" target="_blank">Chung-Ang University</a>, advised by
+  <a href="https://www.irislab.cau.ac.kr/members/pi" target="_blank">Prof. Hak Gu Kim</a>.
+</p>
+<p>
+  My research integrates <strong>vision, language, and audio</strong> through multimodal learning, aiming to build
+  systems that understand and interact with humans. I work on <strong>speech-driven 3D facial animation</strong>,
+  where phonetic and articulatory cues guide audio-visual generation, and on
+  <strong>multimodal large language models (MLLMs)</strong> that extend language understanding beyond text.
+  I am now extending this line toward <strong>socially-aware systems</strong> that reason about human interaction
+  across modalities.
+</p>
+<p><strong>Research interests:</strong> Multimodal LLM (MLLM) · Cross-modal Learning · Social Artificial Intelligence</p>
 
-<!-- {% include widgets/debug_url.html %} -->
+<h2 id="news">News</h2>
+<ul class="news-list">
+  {% assign news_items = site.news | sort: "date" | reverse %}
+  {% for item in news_items %}
+  <li><span class="news-date">{{ item.date | date: "%b %Y" }}</span>{{ item.title }}</li>
+  {% endfor %}
+</ul>
 
-{% if site.data.display.homepage.show_experience %}
-    {% include widgets/experience_card.html %}
-{% endif %}
+<h2 id="publications">Publications</h2>
+<p><span style="color:#777">(<u>underline</u> = me)</span></p>
+<ul class="pub-list">
+  {% assign pubs = site.publications | sort: "date" | reverse %}
+  {% for p in pubs %}
+  <li>
+    <div class="pub-item">
+      {% if p.cover %}
+      <div class="pub-thumb"><img src="{{ p.cover | relative_url }}" alt="{{ p.title }}"></div>
+      {% endif %}
+      <div class="pub-body">
+        <span class="pub-title">{{ p.title }}</span>{% if p.links %}<span class="pub-links">{% for link in p.links %} <a href="{{ link[1] }}" target="_blank">[{{ link[0] }}]</a>{% endfor %}</span>{% endif %}<br>
+        <span class="pub-authors">{{ p.authors | join: ", " }}</span><br>
+        {% if p.pub == "Under Review" %}<span class="pub-venue--review">{{ p.pub }}</span> {{ p.pub_date }}{% else %}<span class="pub-venue">{{ p.pub }}</span> {{ p.pub_date }}{{ p.pub_last }}{% endif %}
+      </div>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
 
-{% if site.data.display.homepage.show_news %}
-    {% assign count_news = site.news | size %}
-    {% if count_news > 0 %}
-        {% include widgets/news_card.html limit=site.data.display.homepage.num_news %}
-    {% endif %}
-{% endif %}
+<h2 id="education">Education</h2>
+<ul>
+  {% for e in site.data.profile.education %}
+  <li><strong>{{ e.name }}</strong> &nbsp;<span class="news-date">{{ e.date }}</span><br>{{ e.position }}</li>
+  {% endfor %}
+</ul>
 
-{% if site.data.display.homepage.show_selected_publications %}
-    {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
-    {% 
-        include widgets/publication_card.html 
-        publications=pubs
-        title='<i class="fas fa-star"></i> Selected Publications'
-    %}
-{% endif %}
+<h2 id="honors-and-awards">Honors &amp; Awards</h2>
+<ul>
+  {% for a in site.data.profile.awards %}
+  <li>{{ a.name }} <span class="news-date">({{ a.date }})</span></li>
+  {% endfor %}
+</ul>

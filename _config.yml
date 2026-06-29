@@ -1,40 +1,86 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# ======================================================================
+#  Site settings — Minimal Mistakes (remote theme)
+# ======================================================================
+title:        "Hyung Kyu Kim"
+name:         "Hyung Kyu Kim"
+description:  "Ph.D. Student at Chung-Ang University — Multimodal Learning (Vision · Language · Audio)"
+url:          "https://kimhyungkyu-1208.github.io"
+baseurl:      "/HYUNG-KYU-KIM"          # keep in sync with the published GitHub Pages path
+repository:   "kimhyungkyu-1208/Hyungkyu_Kim"
+locale:       "en-US"
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-baseurl: "/HYUNG-KYU-KIM" # the subpath of your site, e.g. /blog
+# ---- Theme ----------------------------------------------------------
+remote_theme:           "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin:  "default"        # default | air | aqua | contrast | dark | dirt | neon | mint | plum | sunrise
+search:                 true
 
-# Build settings
+# ---- Build ----------------------------------------------------------
 markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+# ---- Author (left profile sidebar) ----------------------------------
+author:
+  name:     "Hyung Kyu Kim"
+  avatar:   "/assets/images/photos/portrait.jpg"
+  bio:      "Ph.D. Student at Chung-Ang University. Multimodal learning across vision, language, and audio."
+  location: "Seoul, South Korea"
+  links:
+    - label: "Email"
+      icon:  "fas fa-fw fa-envelope-square"
+      url:   "mailto:hyung1208@cau.ac.kr"
+    - label: "GitHub"
+      icon:  "fab fa-fw fa-github"
+      url:   "https://github.com/kimhyungkyu-1208"
+    - label: "LinkedIn"
+      icon:  "fab fa-fw fa-linkedin"
+      url:   "https://www.linkedin.com/in/rlagudrb1208/"
+    - label: "CV"
+      icon:  "fas fa-fw fa-file-alt"
+      url:   "/assets/pdf/CV26-HK_v02.pdf"
+    # - label: "Google Scholar"   # add your real Scholar ID then uncomment
+    #   icon:  "fas fa-fw fa-graduation-cap"
+    #   url:   "https://scholar.google.com/citations?user=YOUR_ID"
+
+# ---- Footer ---------------------------------------------------------
+footer:
+  links:
+    - label: "GitHub"
+      icon:  "fab fa-fw fa-github"
+      url:   "https://github.com/kimhyungkyu-1208"
+    - label: "LinkedIn"
+      icon:  "fab fa-fw fa-linkedin"
+      url:   "https://www.linkedin.com/in/rlagudrb1208/"
+
+# ---- Plugins (all GitHub Pages compatible) --------------------------
 plugins:
-  - jekyll-email-protect
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-sitemap
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# timezone: Asia/Shanghai
-
+# ---- Collections (existing content kept) ----------------------------
 collections:
-  - publications
-  - news
-  - showcase
+  publications:
+    output: false
+  news:
+    output: false
+
+# ---- Defaults -------------------------------------------------------
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# ---- Exclude from build --------------------------------------------
+exclude:
+  - _archive_old_theme
+  - example
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor
