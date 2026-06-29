@@ -30,6 +30,9 @@ author:
     - label: "Email"
       icon:  "fas fa-fw fa-envelope-square"
       url:   "mailto:hyung1208@cau.ac.kr"
+    - label: "Google Scholar"
+      icon:  "fas fa-fw fa-graduation-cap"
+      url:   "https://scholar.google.com/citations?user=zW9d84UAAAAJ&hl=ko"
     - label: "GitHub"
       icon:  "fab fa-fw fa-github"
       url:   "https://github.com/kimhyungkyu-1208"
@@ -39,9 +42,6 @@ author:
     - label: "CV"
       icon:  "fas fa-fw fa-file-alt"
       url:   "/assets/pdf/CV26-HK_v02.pdf"
-    # - label: "Google Scholar"   # add your real Scholar ID then uncomment
-    #   icon:  "fas fa-fw fa-graduation-cap"
-    #   url:   "https://scholar.google.com/citations?user=YOUR_ID"
 
 # ---- Footer ---------------------------------------------------------
 footer:

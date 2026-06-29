@@ -11,12 +11,13 @@
    Custom styles
    ====================================================================== */
 
-/* ---- Base font size (smaller than the theme default 16/18/20/22) ---- */
+/* ---- Base font size — override theme default (16/18/20/22).
+       Uses the theme's exact em breakpoints so these win the cascade. ---- */
 html {
-  font-size: 15px;                                   /* small screens  */
-  @media (min-width: 768px)  { font-size: 16px; }    /* $medium        */
-  @media (min-width: 1024px) { font-size: 17px; }    /* $large         */
-  @media (min-width: 1280px) { font-size: 18px; }    /* $x-large       */
+  font-size: 14px !important;                          /* small screens   */
+  @media (min-width: 48em) { font-size: 15px !important; }   /* $medium   */
+  @media (min-width: 64em) { font-size: 16px !important; }   /* $large    */
+  @media (min-width: 80em) { font-size: 16px !important; }   /* $x-large  */
 }
 
 /* ---- Section headings ---- */
