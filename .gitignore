@@ -1,0 +1,10 @@
+# Reference/example sites (not part of this site)
+example/
+
+# Jekyll build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# macOS
+.DS_Store
