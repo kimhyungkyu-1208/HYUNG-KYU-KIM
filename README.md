@@ -31,7 +31,7 @@ Full list: [Publications](https://kimhyungkyu-1208.github.io/HYUNG-KYU-KIM/#publ
 - 📧 Email: [hyung1208@cau.ac.kr](mailto:hyung1208@cau.ac.kr)
 - 💻 GitHub: [kimhyungkyu-1208](https://github.com/kimhyungkyu-1208)
 - 🔗 LinkedIn: [rlagudrb1208](https://www.linkedin.com/in/rlagudrb1208/)
-- 📄 [Curriculum Vitae](assets/pdf/CV26-HK_v02.pdf)
+- 📄 [Curriculum Vitae](assets/pdf/CV26-HK_v03.pdf)
 
 ---
 

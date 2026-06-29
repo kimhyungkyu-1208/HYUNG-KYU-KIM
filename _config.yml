@@ -41,7 +41,7 @@ author:
       url:   "https://www.linkedin.com/in/rlagudrb1208/"
     - label: "CV"
       icon:  "fas fa-fw fa-file-alt"
-      url:   "/assets/pdf/CV26-HK_v02.pdf"
+      url:   "/HYUNG-KYU-KIM/assets/pdf/CV26-HK_v03.pdf"   # author links are not baseurl-prefixed, so include it
 
 # ---- Footer ---------------------------------------------------------
 footer:
