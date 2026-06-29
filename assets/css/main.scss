@@ -11,6 +11,14 @@
    Custom styles
    ====================================================================== */
 
+/* ---- Base font size (smaller than the theme default 16/18/20/22) ---- */
+html {
+  font-size: 15px;                                   /* small screens  */
+  @media (min-width: 768px)  { font-size: 16px; }    /* $medium        */
+  @media (min-width: 1024px) { font-size: 17px; }    /* $large         */
+  @media (min-width: 1280px) { font-size: 18px; }    /* $x-large       */
+}
+
 /* ---- Section headings ---- */
 .page__content h2 {
   border-bottom: 1px solid $border-color;
