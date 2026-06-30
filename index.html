@@ -33,24 +33,20 @@ toc_label: "Contents"
 </ul>
 
 <h2 id="publications">Publications</h2>
-<p><span style="color:#777">(<u>underline</u> = me)</span></p>
-<ul class="pub-list">
-  {% assign pubs = site.publications | sort: "date" | reverse %}
+<p class="section-note">Sorted newest first &nbsp;·&nbsp; <strong>name in bold</strong> = me</p>
+{% assign pubs = site.publications | sort: "date" | reverse %}
+<ol class="publication-list" reversed start="{{ pubs | size }}">
   {% for p in pubs %}
-  <li>
-    <div class="pub-item">
-      {% if p.cover %}
-      <div class="pub-thumb"><img src="{{ p.cover | relative_url }}" alt="{{ p.title }}"></div>
-      {% endif %}
-      <div class="pub-body">
-        <span class="pub-title">{{ p.title }}</span>{% if p.links %}<span class="pub-links">{% for link in p.links %} <a href="{{ link[1] }}" target="_blank">[{{ link[0] }}]</a>{% endfor %}</span>{% endif %}<br>
-        <span class="pub-authors">{{ p.authors | join: ", " }}</span><br>
-        {% if p.pub == "Under Review" %}<span class="pub-venue--review">{{ p.pub }}</span> {{ p.pub_date }}{% else %}<span class="pub-venue">{{ p.pub }}</span> {{ p.pub_date }}{{ p.pub_last }}{% endif %}
-      </div>
-    </div>
+  <li class="publication-item">
+    <div class="pub-title">{{ p.title }}</div>
+    <div class="pub-authors">{{ p.authors | join: ", " }}</div>
+    <div class="pub-venue">{% if p.pub == "Under Review" %}<span class="pub-status">Under review</span>{% else %}{{ p.pub }} {{ p.pub_date }}{% endif %}{{ p.pub_last }}</div>
+    {% if p.links %}
+    <div class="pub-links">{% for link in p.links %}{% unless forloop.first %}<span class="dot">·</span>{% endunless %}<a href="{{ link[1] }}" target="_blank" rel="noreferrer">{{ link[0] }}</a>{% endfor %}</div>
+    {% endif %}
   </li>
   {% endfor %}
-</ul>
+</ol>
 
 <h2 id="education">Education</h2>
 <ul>
