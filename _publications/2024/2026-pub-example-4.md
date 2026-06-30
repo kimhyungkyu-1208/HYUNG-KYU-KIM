@@ -13,8 +13,8 @@ authors:
   - <u>Hyung Kyu Kim</u>
   - Byungchan Hwang
   - Hak Gu Kim
-# links:
-#   Paper: ""
-#   Project Page: ""
+links:
+  Paper: "https://arxiv.org/abs/2606.16327"
+  Project Page: "https://cau-irislab.github.io/Interspeech26-ArtBoost/"
 #   Code: ""
 ---
