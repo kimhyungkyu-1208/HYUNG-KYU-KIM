@@ -53,6 +53,16 @@ $pub-link:  #1d3d6b;
 .publication-item:last-child { border-bottom: 0; }
 .publication-item:hover { border-left-color: $pub-fg; }
 
+/* representative figure (left) + text (right) */
+.pub-row { display: flex; gap: 16px; align-items: flex-start; }
+.pub-thumb { flex: 0 0 150px; max-width: 150px; }
+.pub-thumb img { width: 100%; display: block; border: 1px solid $pub-line; border-radius: 4px; }
+.pub-body { flex: 1 1 auto; min-width: 0; }
+@media (max-width: 600px) {
+  .pub-row { flex-direction: column; }
+  .pub-thumb { flex-basis: auto; max-width: 220px; }
+}
+
 .pub-title { font-weight: 600; color: $pub-fg; line-height: 1.35; }
 .pub-authors,
 .pub-venue,

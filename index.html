@@ -38,12 +38,17 @@ toc_label: "Contents"
 <ol class="publication-list" reversed start="{{ pubs | size }}">
   {% for p in pubs %}
   <li class="publication-item">
-    <div class="pub-title">{{ p.title }}</div>
-    <div class="pub-authors">{{ p.authors | join: ", " }}</div>
-    <div class="pub-venue">{% if p.pub == "Under Review" %}<span class="pub-status">Under review</span>{% else %}{{ p.pub }} {{ p.pub_date }}{% endif %}{{ p.pub_last }}</div>
-    {% if p.links %}
-    <div class="pub-links">{% for link in p.links %}{% unless forloop.first %}<span class="dot">·</span>{% endunless %}<a href="{{ link[1] }}" target="_blank" rel="noreferrer">{{ link[0] }}</a>{% endfor %}</div>
-    {% endif %}
+    <div class="pub-row">
+      {% if p.cover %}<div class="pub-thumb"><img src="{{ p.cover | relative_url }}" alt="{{ p.title }}" loading="lazy"></div>{% endif %}
+      <div class="pub-body">
+        <div class="pub-title">{{ p.title }}</div>
+        <div class="pub-authors">{{ p.authors | join: ", " }}</div>
+        <div class="pub-venue">{% if p.pub == "Under Review" %}<span class="pub-status">Under review</span>{% else %}{{ p.pub }} {{ p.pub_date }}{% endif %}{{ p.pub_last }}</div>
+        {% if p.links %}
+        <div class="pub-links">{% for link in p.links %}{% unless forloop.first %}<span class="dot">·</span>{% endunless %}<a href="{{ link[1] }}" target="_blank" rel="noreferrer">{{ link[0] }}</a>{% endfor %}</div>
+        {% endif %}
+      </div>
+    </div>
   </li>
   {% endfor %}
 </ol>
