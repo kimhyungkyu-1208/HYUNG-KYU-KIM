@@ -21,7 +21,6 @@ I am a **Ph.D. student** in the Graduate School of Advanced Imaging Science, Mul
 
 Full list: [Publications](https://kimhyungkyu-1208.github.io/HYUNG-KYU-KIM/#publications)
 
-- **Seeing Speech: Learning Visible Articulatory Dynamics for Speech-Driven 3D Facial Animation** — *Under Review*, 2026
 - **ArtBoost: Synthetic Articulatory Data Augmentation for Acoustic-to-Articulatory Inversion** — *Interspeech*, 2026
 - **MemoryTalker: Personalized Speech-Driven 3D Facial Animation via Audio-Guided Stylization** — *ICCV*, 2025
 - **Learning Phonetic Context-Dependent Viseme for Enhancing Speech-Driven 3D Facial Animation** — *Interspeech*, 2025 (Oral)
