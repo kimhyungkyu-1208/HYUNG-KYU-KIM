@@ -8,7 +8,7 @@ Personal academic homepage of **Hyung Kyu Kim** — research interests, publicat
 
 ## About Me
 
-I am a **Ph.D. student** in the Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) at [Chung-Ang University](https://www.cau.ac.kr/index.do), advised by [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/members/pi). My research integrates **vision, language, and audio** through multimodal learning to build systems that understand and interact with humans.
+I am a **Ph.D. student** in the Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) at [Chung-Ang University](https://www.cau.ac.kr/index.do), advised by [Prof. Hak Gu Kim](https://hgkimcau.github.io). My research integrates **vision, language, and audio** through multimodal learning to build systems that understand and interact with humans.
 
 ## Research Interests
 

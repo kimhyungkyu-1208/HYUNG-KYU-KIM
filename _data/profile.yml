@@ -24,7 +24,7 @@ short_bio: >-
   <p>
     I'm an Ph.D student at <a href="https://www.cau.ac.kr/index.do" target="_blank">Chung-Ang University</a>, 
     specializing in Image/Video Engineering under the mentorship of 
-    <a href="https://www.irislab.cau.ac.kr/members/pi" target="_blank">Prof. Hak Gu Kim</a>.
+    <a href="https://hgkimcau.github.io" target="_blank">Prof. Hak Gu Kim</a>.
   </p>
   <p>
     My research interests lie in integrating various domain data through <strong>multimodal learning</strong>. <br>
@@ -42,14 +42,14 @@ education:
   position: >-
     Ph.D. in Graduate School of Advanced Imaging Science,
     Multimedia & Film (GSAIM) <br/>
-    Advisor: <a href="https://www.irislab.cau.ac.kr/members/pi">Prof. Hak Gu Kim</a>
+    Advisor: <a href="https://hgkimcau.github.io">Prof. Hak Gu Kim</a>
   date: Mar. 2025 - Present
 - name: Chung-Ang University (CAU)
   logo: /assets/images/badges/cau.jpg
   position: >-
     M.S. in Graduate School of Advanced Imaging Science, 
     Multimedia & Film (GSAIM) <br/>
-    Advisor: <a href="https://www.irislab.cau.ac.kr/members/pi">Prof. Hak Gu Kim</a>
+    Advisor: <a href="https://hgkimcau.github.io">Prof. Hak Gu Kim</a>
   date: Mar. 2023 - Feb. 2025
 - name: Konkuk University
   logo: /assets/images/badges/konkuk.jpg
