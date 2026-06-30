@@ -11,8 +11,8 @@ pub_date:       "2025"
 cover:          /assets/images/covers/iccv25.png
 authors:
   - <u>Hyung Kyu Kim</u>
-  - Sangmin Lee
-  - Hak Gu Kim
+  - Sangmin Lee<sup>&dagger;</sup>
+  - Hak Gu Kim<sup>&dagger;</sup>
 links:
   Paper: "https://arxiv.org/abs/2507.20562"
   Project Page: "https://cau-irislab.github.io/ICCV25-MemoryTalker/"
