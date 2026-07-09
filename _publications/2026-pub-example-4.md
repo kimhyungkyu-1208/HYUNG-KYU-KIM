@@ -3,7 +3,7 @@ title:          "ArtBoost: Synthetic Articulatory Data Augmentation for Acoustic
 date:           2026-05-20 00:01:00 +0800
 selected:       true
 pub:            "Interspeech"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Accepted</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "2026"
 
 # abstract: >-
